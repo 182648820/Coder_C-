@@ -1,0 +1,11 @@
+G:\source\AdminSystem\AdminSystem\bin\Debug\AdminSystem.exe.config
+G:\source\AdminSystem\AdminSystem\bin\Debug\AdminSystem.exe
+G:\source\AdminSystem\AdminSystem\bin\Debug\AdminSystem.pdb
+G:\source\AdminSystem\AdminSystem\bin\Debug\System.Data.SQLite.xml
+G:\source\AdminSystem\AdminSystem\obj\Debug\AdminSystem.csprojResolveAssemblyReference.cache
+G:\source\AdminSystem\AdminSystem\obj\Debug\AdminSystem.Form1.resources
+G:\source\AdminSystem\AdminSystem\obj\Debug\AdminSystem.Properties.Resources.resources
+G:\source\AdminSystem\AdminSystem\obj\Debug\AdminSystem.csproj.GenerateResource.Cache
+G:\source\AdminSystem\AdminSystem\obj\Debug\AdminSystem.exe
+G:\source\AdminSystem\AdminSystem\obj\Debug\AdminSystem.pdb
+G:\source\AdminSystem\AdminSystem\obj\Debug\AdminSystem.Form2.resources

@@ -1,0 +1,5 @@
+G:\source\ThreeDmeo\MyModel\bin\Debug\MyModel.dll
+G:\source\ThreeDmeo\MyModel\bin\Debug\MyModel.pdb
+G:\source\ThreeDmeo\MyModel\obj\Debug\MyModel.csprojResolveAssemblyReference.cache
+G:\source\ThreeDmeo\MyModel\obj\Debug\MyModel.dll
+G:\source\ThreeDmeo\MyModel\obj\Debug\MyModel.pdb

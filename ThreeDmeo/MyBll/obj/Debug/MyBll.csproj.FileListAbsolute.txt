@@ -1,0 +1,7 @@
+G:\source\ThreeDmeo\MyBll\bin\Debug\MyBll.dll
+G:\source\ThreeDmeo\MyBll\bin\Debug\MyBll.pdb
+G:\source\ThreeDmeo\MyBll\bin\Debug\myDal.dll
+G:\source\ThreeDmeo\MyBll\bin\Debug\myDal.pdb
+G:\source\ThreeDmeo\MyBll\obj\Debug\MyBll.csprojResolveAssemblyReference.cache
+G:\source\ThreeDmeo\MyBll\obj\Debug\MyBll.dll
+G:\source\ThreeDmeo\MyBll\obj\Debug\MyBll.pdb

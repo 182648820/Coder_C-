@@ -1,0 +1,6 @@
+G:\source\demo6\bin\Debug\demo6.exe.config
+G:\source\demo6\obj\Debug\demo6.csprojResolveAssemblyReference.cache
+G:\source\demo6\bin\Debug\demo6.exe
+G:\source\demo6\bin\Debug\demo6.pdb
+G:\source\demo6\obj\Debug\demo6.exe
+G:\source\demo6\obj\Debug\demo6.pdb

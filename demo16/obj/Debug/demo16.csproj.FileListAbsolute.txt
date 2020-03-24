@@ -1,0 +1,15 @@
+G:\source\demo16\bin\Debug\demo16.exe.config
+G:\source\demo16\bin\Debug\demo16.exe
+G:\source\demo16\bin\Debug\demo16.pdb
+G:\source\demo16\bin\Debug\Interop.WMPLib.dll
+G:\source\demo16\bin\Debug\AxInterop.WMPLib.dll
+G:\source\demo16\obj\Debug\demo16.csprojResolveAssemblyReference.cache
+G:\source\demo16\obj\Debug\Interop.WMPLib.dll
+G:\source\demo16\obj\Debug\AxInterop.WMPLib.dll
+G:\source\demo16\obj\Debug\demo16.csproj.ResolveComReference.cache
+G:\source\demo16\obj\Debug\demo16.Form1.resources
+G:\source\demo16\obj\Debug\demo16.csproj.GenerateResource.Cache
+G:\source\demo16\obj\Debug\demo16.exe
+G:\source\demo16\obj\Debug\demo16.pdb
+G:\source\demo16\obj\Debug\demo16.Properties.Resources.resources
+G:\source\demo16\obj\Debug\demo16.Form2.resources

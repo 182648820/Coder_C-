@@ -1,0 +1,5 @@
+G:\source\demo7\demo12\bin\Debug\demo12.exe.config
+G:\source\demo7\demo12\bin\Debug\demo12.exe
+G:\source\demo7\demo12\bin\Debug\demo12.pdb
+G:\source\demo7\demo12\obj\Debug\demo12.exe
+G:\source\demo7\demo12\obj\Debug\demo12.pdb

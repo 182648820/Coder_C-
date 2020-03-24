@@ -1,0 +1,10 @@
+G:\source\demo17\bin\Debug\demo17.exe.config
+G:\source\demo17\bin\Debug\demo17.exe
+G:\source\demo17\bin\Debug\demo17.pdb
+G:\source\demo17\obj\Debug\demo17.csprojResolveAssemblyReference.cache
+G:\source\demo17\obj\Debug\demo17.Form1.resources
+G:\source\demo17\obj\Debug\demo17.csproj.GenerateResource.Cache
+G:\source\demo17\obj\Debug\demo17.exe
+G:\source\demo17\obj\Debug\demo17.pdb
+G:\source\demo17\obj\Debug\demo17.Form2.resources
+G:\source\demo17\obj\Debug\demo17.Form3.resources

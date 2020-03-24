@@ -1,0 +1,16 @@
+G:\source\demo14\demo14\bin\Debug\demo14.exe.config
+G:\source\demo14\demo14\bin\Debug\demo14.exe
+G:\source\demo14\demo14\bin\Debug\demo14.pdb
+G:\source\demo14\demo14\obj\Debug\demo14.Form1.resources
+G:\source\demo14\demo14\obj\Debug\demo14.Properties.Resources.resources
+G:\source\demo14\demo14\obj\Debug\demo14.csproj.GenerateResource.Cache
+G:\source\demo14\demo14\obj\Debug\demo14.exe
+G:\source\demo14\demo14\obj\Debug\demo14.pdb
+G:\source\demo14\demo14\obj\Debug\demo14.Form2.resources
+G:\source\demo14\demo14\obj\Debug\demo14.csprojResolveAssemblyReference.cache
+G:\source\demo14\demo14\obj\Debug\demo14.Form3.resources
+G:\source\demo14\demo14\obj\Debug\demo14.Form4.resources
+G:\source\demo14\demo14\obj\Debug\demo14.Form5.resources
+G:\source\demo14\demo14\obj\Debug\demo14.Form6.resources
+G:\source\demo14\demo14\obj\Debug\demo14.Form7.resources
+G:\source\demo14\demo14\obj\Debug\demo14.Form8.resources

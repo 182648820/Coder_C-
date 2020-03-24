@@ -1,0 +1,15 @@
+G:\source\ThreeDmeo\ThreeDmeo\bin\Debug\ThreeDmeo.exe.config
+G:\source\ThreeDmeo\ThreeDmeo\obj\Debug\ThreeDmeo.csprojResolveAssemblyReference.cache
+G:\source\ThreeDmeo\ThreeDmeo\obj\Debug\ThreeDmeo.Form1.resources
+G:\source\ThreeDmeo\ThreeDmeo\obj\Debug\ThreeDmeo.Properties.Resources.resources
+G:\source\ThreeDmeo\ThreeDmeo\obj\Debug\ThreeDmeo.csproj.GenerateResource.Cache
+G:\source\ThreeDmeo\ThreeDmeo\bin\Debug\ThreeDmeo.exe
+G:\source\ThreeDmeo\ThreeDmeo\bin\Debug\ThreeDmeo.pdb
+G:\source\ThreeDmeo\ThreeDmeo\bin\Debug\MyBll.dll
+G:\source\ThreeDmeo\ThreeDmeo\bin\Debug\MyModel.dll
+G:\source\ThreeDmeo\ThreeDmeo\bin\Debug\myDal.dll
+G:\source\ThreeDmeo\ThreeDmeo\bin\Debug\MyBll.pdb
+G:\source\ThreeDmeo\ThreeDmeo\bin\Debug\MyModel.pdb
+G:\source\ThreeDmeo\ThreeDmeo\bin\Debug\myDal.pdb
+G:\source\ThreeDmeo\ThreeDmeo\obj\Debug\ThreeDmeo.exe
+G:\source\ThreeDmeo\ThreeDmeo\obj\Debug\ThreeDmeo.pdb

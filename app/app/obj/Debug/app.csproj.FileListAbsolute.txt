@@ -1,0 +1,5 @@
+G:\source\app\app\bin\Debug\app.exe.config
+G:\source\app\app\bin\Debug\app.exe
+G:\source\app\app\bin\Debug\app.pdb
+G:\source\app\app\obj\Debug\app.exe
+G:\source\app\app\obj\Debug\app.pdb

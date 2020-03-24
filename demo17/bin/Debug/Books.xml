@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Books>
+  <book>
+    <Name>《水浒传》</Name>
+    <Price>20</Price>
+    <Des>义薄云天</Des>
+  </book>
+  <book>
+    <Name>《红楼梦》</Name>
+    <Price>20</Price>
+    <Des>儿女情长</Des>
+  </book>
+</Books>
